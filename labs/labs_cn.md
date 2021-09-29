@@ -13,6 +13,7 @@ Read [English Version](labs.md)
 2. 将电脑 win10 升级到最新版本 ( **由于实验室的电脑安装 VS2019 非常费时**, 
 **请大家尽量自带笔记本电脑并先行升级 win10** )
 
+Windows 应用开发环境安装参见 [Install tools for Windows app development](https://docs.microsoft.com/en-us/windows/apps/windows-app-sdk/set-up-your-development-environment?tabs=stable#4-install-the-windows-app-sdk-extension-for-visual-studio)
 
 ## 1 [实验一](lab_1/lab_1_cn.md)
 

@@ -14,6 +14,9 @@ Please refer to the Instruction Slides.
 
 2. Upgrade your computer win10 to the most newest version.
 
+To set up your Windows app devlopement environment please refer to
+[Install tools for Windows app development](https://docs.microsoft.com/en-us/windows/apps/windows-app-sdk/set-up-your-development-environment?tabs=stable#4-install-the-windows-app-sdk-extension-for-visual-studio)
+
 
 ## 1 [Lab One](lab_1/lab_1.md)
 
