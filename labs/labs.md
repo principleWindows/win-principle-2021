@@ -4,7 +4,10 @@
 
 ***
 
+[Template for Lab Report](lab_report.doc)
+
 There are three laboratories in this course, with 4 class hours in each lab.
+**3次实验综合在一个实验报告中，在最后一次理论课前提交**
 
 ## LAB PREREQUISITES (Pre-Class Requirements) 
 

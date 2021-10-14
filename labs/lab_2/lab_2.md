@@ -4,6 +4,19 @@
 
 ***
 
+Producer and consumer:
+
+采用信号量机制实现消费者与生产者的线程同步
+* 1个生产者，1个消费者
+* 1个生产者，多个消费者
+* 多个生产者，1个消费者
+* 多个生产者，多个消费者
+
+Use wpfTest and refer to the following article
+[关于生产者消费者模式的C#实现](https://blog.csdn.net/li3781695/article/details/85242561)
+
+下述内容为 2020 年实验内容，不进行！！！
+
 你也可以使用课程组提供的 wpfTest 代码展开实验，
 这样就不用进行下面的实验。
 
