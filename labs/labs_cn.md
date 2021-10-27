@@ -34,5 +34,8 @@ Misson of this class:
 
 ## 3 [สตั้ศý](lab_3/lab_3_cn.md)
 
+1. Create C++ unmanaged dynamic link library
+2. Create and use COM objects
+
 
 
