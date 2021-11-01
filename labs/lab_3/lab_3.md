@@ -7,7 +7,7 @@
 ## 1 [Create Unmanaged Dynamic Link Library](lab_3_1.md)
 
 
-## 2 [COM](lab_3_2.md)
+## 2 [Create COM](lab_3_2.md)
 
 
 ## 3 [Collaborate using Visual Studio](lab_3_3.md)
