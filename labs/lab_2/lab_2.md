@@ -4,7 +4,15 @@
 
 ***
 
-Producer and consumer:
+**补做实验：**
+
+进程间通信实验：
+* Download the latest version of wpfTest from github.com/principlewindows/wpfTest
+* 进程间同步通信 —— wpfTest 的第二讲实验1中`C2_SY1.xaml.cs`相关代码
+* 进程间异步通信 —— wpfTest 的第二讲实验2中`C2_SY2.xaml.cs`相关代码
+
+***************************************
+Threads Communication —— Experiement of Producer and Consumer :
 
 采用信号量机制实现消费者与生产者的线程同步
 * 1个生产者，1个消费者

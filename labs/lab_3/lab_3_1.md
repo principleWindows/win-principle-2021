@@ -1,4 +1,4 @@
-# Create Unmanaged Dynamic Link Library
+# 3.1 Create Unmanaged Dynamic Link Library
 
 This walkthrough experiement is adapted from:
 * [ref 1](https://docs.microsoft.com/en-us/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp)
